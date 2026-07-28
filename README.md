@@ -1,87 +1,152 @@
-<!-- ─────────────────────────────  HEADER  ───────────────────────────── -->
 <div align="center">
 
-# Pamimo Akinjide
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:3B82F6&height=200&section=header&text=Pamimo%20Akinjide&fontColor=ffffff&desc=Product%20Manager%20who%20ships&fontSize=50&descSize=18&fontAlignY=38&descAlignY=58" alt="Pamimo Akinjide" width="100%" />
 
-### Economics researcher & product builder
-
-*Applied microeconomics · innovation & development · turning research questions into working tools*
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=640&lines=Build+to+learn.+Ship+small%2C+ship+often.;Ship+to+validate.+Real+users%2C+real+usage.;Measure+everything.+Decide+on+evidence." alt="Build to learn. Ship to validate. Measure everything." />
 
 <br/>
 
-[![Website](https://img.shields.io/badge/Website-pamimoakinjide.com-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pamimoakinjide.com)
-[![Email](https://img.shields.io/badge/Email-akinjidedavid%40gmail.com-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akinjidedavid@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fpamimo-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamimo)
+<a href="https://pamimoakinjide.com"><img src="https://img.shields.io/badge/Website-pamimoakinjide.com-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0B1F3A" alt="Website" /></a>
+<a href="https://www.linkedin.com/in/pamimo"><img src="https://img.shields.io/badge/LinkedIn-pamimo-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1F3A" alt="LinkedIn" /></a>
+<a href="mailto:akinjidedavid@gmail.com"><img src="https://img.shields.io/badge/Email-akinjidedavid-3B82F6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1F3A" alt="Email" /></a>
 
 </div>
 
-<br/>
+## Currently shipping
 
-<!-- ─────────────────────────────  ABOUT  ───────────────────────────── -->
-## 👋 About
+<table>
+<tr>
+<td width="50%" valign="top">
 
-I'm an economics researcher working at the intersection of **innovation, development, and applied econometrics**. My work pairs causal-inference research with the reproducible data pipelines and tools that make empirical work faster and more transparent.
+### <a href="https://github.com/A-Pamimo/pamimo_com">pamimo_com</a>
 
-- 🔬 **Research interests:** innovation & knowledge diffusion, development economics, high-frequency macro measurement
-- 📈 **Methods:** difference-in-differences & event-study designs, panel data, fully reproducible workflows in **R**, **Python**, and **Stata/LaTeX**
-- 🛠️ **Also:** I build and ship products — when a workflow is slow or a dataset is hard to see, I make a tool for it
-- 🎯 **Currently:** preparing for graduate study in economics
+<img src="https://img.shields.io/badge/LIVE-10B981?style=for-the-badge&labelColor=0B1F3A" alt="LIVE" />
 
-<br/>
+Personal site, built from scratch on a custom engine. Live at <a href="https://pamimoakinjide.com">pamimoakinjide.com</a>.
 
-<!-- ─────────────────────────────  RESEARCH  ───────────────────────────── -->
-## 🔬 Selected Research
+<img src="https://img.shields.io/badge/Next.js-0B1F3A?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/TypeScript-0B1F3A?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-0B1F3A?style=for-the-badge&logo=react&logoColor=white" alt="React" />
 
-| Project | What it is |
-| --- | --- |
-| **[Honors Thesis — WFP](https://github.com/A-Pamimo/HonorsPaperWFP)** | A fully reproducible **R** pipeline (`make` + `renv`) for my honors thesis — data cleaning, difference-in-differences estimation, clustered standard errors, and documented variable derivations, all runnable end-to-end with one command. |
-| **[MacroMonitor](https://github.com/A-Pamimo/MacroMonitor)** | A live macroeconomic dashboard that pulls US & Canadian indicators straight from FRED to beat the official-data lag — including an inverted-yield-curve recession signal. |
+</td>
+<td width="50%" valign="top">
 
-<br/>
+### <a href="https://github.com/A-Pamimo/sangyin">sangyin</a> 聲音
 
-<!-- ─────────────────────────────  PRODUCTS  ───────────────────────────── -->
-## 🚀 Products & Tools
+<img src="https://img.shields.io/badge/OSS-64748B?style=for-the-badge&labelColor=0B1F3A" alt="OSS" />
 
-| Project | What it does |
-| --- | --- |
-| **[pamimoakinjide.com](https://github.com/A-Pamimo/pamimo_com)** | My personal site, built from scratch — because if I claim I can ship product, the portfolio itself should be the proof. **[Live →](https://pamimoakinjide.com)** |
-| **[sangyin](https://github.com/A-Pamimo/sangyin)** 聲音 | A free, open-source, self-hostable audio reader that turns PDFs, EPUBs, and articles into speech using open TTS models — running on web, desktop, and mobile from a single codebase. |
-| **[xuexi](https://github.com/A-Pamimo/xuexi)** 学习 | A Mandarin-learning app (React Native + Expo) that borrows the reward loops of gaming and points them at comprehensible input, FSRS spaced repetition, and tone training. Offline-first. |
-| **[canola](https://github.com/A-Pamimo/canola)** | A human-in-the-loop AI meeting notepad — captures audio on-device, transcribes live (audio never stored), and enhances sparse notes into polished ones with an LLM. *(In active development.)* |
+Free, self-hostable audio reader. Turns PDFs, EPUBs, and articles into speech with open TTS models. Runs web, desktop, and mobile from one codebase.
 
-<br/>
+<img src="https://img.shields.io/badge/TypeScript-0B1F3A?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Python-0B1F3A?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/React-0B1F3A?style=for-the-badge&logo=react&logoColor=white" alt="React" />
 
-<!-- ─────────────────────────────  TOOLBOX  ───────────────────────────── -->
-## 🧰 Toolbox
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Research & data**
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+### <a href="https://github.com/A-Pamimo/xuexi">xuexi</a> 学习
 
-**Building**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=flat-square&logo=electron&logoColor=white)
+<img src="https://img.shields.io/badge/LIVE-10B981?style=for-the-badge&labelColor=0B1F3A" alt="LIVE" />
 
-<br/>
+Gamified Mandarin learning. FSRS spaced repetition plus comprehensible input. Offline-first. Milestones M1 to M5 shipped.
 
-<!-- ─────────────────────────────  STATS  ───────────────────────────── -->
+<img src="https://img.shields.io/badge/React_Native-0B1F3A?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
+<img src="https://img.shields.io/badge/Expo-0B1F3A?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+<img src="https://img.shields.io/badge/TypeScript-0B1F3A?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+
+</td>
+<td width="50%" valign="top">
+
+### <a href="https://github.com/A-Pamimo/canola">canola</a>
+
+<img src="https://img.shields.io/badge/IN_DEV-F59E0B?style=for-the-badge&labelColor=0B1F3A" alt="IN DEV" />
+
+Human-in-the-loop AI meeting notepad. On-device capture, live transcription (audio never stored), LLM note enhancement. Early, in active development.
+
+<img src="https://img.shields.io/badge/Electron-0B1F3A?style=for-the-badge&logo=electron&logoColor=white" alt="Electron" />
+<img src="https://img.shields.io/badge/TypeScript-0B1F3A?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+
+</td>
+</tr>
+</table>
+
+## How I work
+
 <div align="center">
 
-![Pamimo's GitHub stats](https://github-readme-stats.vercel.app/api?username=A-Pamimo&show_icons=true&hide_border=true&count_private=true&title_color=2563eb&icon_color=2563eb)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=A-Pamimo&layout=compact&hide_border=true&title_color=2563eb)
+> Build to learn, ship to validate, measure everything. The product is the argument.
 
 </div>
 
-<br/>
+**Build to learn.** Ship a thin slice, watch what it teaches, then decide the next slice.
 
-<!-- ─────────────────────────────  FOOTER  ───────────────────────────── -->
+**Ship to validate.** A feature is a hypothesis. Real users and real usage settle it, not opinions.
+
+**Measure everything.** Instrument first. Every call traces back to a number.
+
+## The stack
+
 <div align="center">
 
-*Interested in my research? Reach out at [akinjidedavid@gmail.com](mailto:akinjidedavid@gmail.com).*
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,expo,electron,r,python,tailwind" alt="TypeScript, React, Next.js, Expo, Electron, R, Python, Tailwind" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/LaTeX-0B1F3A?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
+<img src="https://img.shields.io/badge/FRED_API-0B1F3A?style=for-the-badge&logoColor=white" alt="FRED API" />
+<img src="https://img.shields.io/badge/renv-0B1F3A?style=for-the-badge&logo=r&logoColor=white" alt="renv" />
+
+</div>
+
+## Under the hood: research rigor
+
+<details open>
+<summary><b>This is why the products are measured, not guessed.</b></summary>
+
+<br/>
+
+<table>
+<tr>
+<td valign="top">
+
+<a href="https://github.com/A-Pamimo/HonorsPaperWFP"><b>HonorsPaperWFP</b></a> &nbsp; <img src="https://img.shields.io/badge/REPRODUCIBLE-3B82F6?style=for-the-badge&labelColor=0B1F3A" alt="REPRODUCIBLE" />
+
+Fully reproducible R thesis pipeline, make plus renv. Difference-in-differences, clustered SEs.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+<a href="https://github.com/A-Pamimo/MacroMonitor"><b>MacroMonitor</b></a> &nbsp; <img src="https://img.shields.io/badge/LIVE_DATA-10B981?style=for-the-badge&labelColor=0B1F3A" alt="LIVE DATA" />
+
+Macro dashboard on FRED data. Recession signal. A data product born from research instinct.
+
+</td>
+</tr>
+</table>
+
+</details>
+
+## Cadence
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=A-Pamimo&show_icons=true&hide_border=true&bg_color=00000000&title_color=3B82F6&icon_color=3B82F6&count_private=true" alt="GitHub stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Pamimo&layout=compact&hide_border=true&bg_color=00000000&title_color=3B82F6" alt="Top languages" height="165" />
+
+</div>
+
+## What's next
+
+Next up: canola out of IN DEV and into the hands of real users, held to the same measure-first loop that carried the rest.
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:0B1F3A&height=140&section=footer" alt="footer" width="100%" />
+
+<a href="https://pamimoakinjide.com">pamimoakinjide.com</a> &nbsp;&middot;&nbsp; <a href="https://www.linkedin.com/in/pamimo">linkedin.com/in/pamimo</a> &nbsp;&middot;&nbsp; <a href="mailto:akinjidedavid@gmail.com">akinjidedavid@gmail.com</a>
 
 </div>
