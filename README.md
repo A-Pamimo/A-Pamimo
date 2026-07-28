@@ -75,9 +75,9 @@ Human-in-the-loop AI meeting notepad. On-device capture, live transcription (aud
 
 I build things that matter to me. Tools I needed and could not find, so I made them.
 
-A lot of this traces back to my time in China. **xuexi** came from wanting to actually learn Mandarin instead of grinding flashcards that never stuck, built offline-first because the apps I leaned on did not work there. **sangyin** came from wanting to listen on the go, turning a wall of reading into audio I could take anywhere. **canola** came from wanting Granola-style AI meeting notes without being gated behind a business account, so I built my own.
+Some of what is here comes from my time in China. **xuexi** came from wanting to actually learn Mandarin instead of grinding flashcards that never stuck, built offline-first because the apps I leaned on did not work there. **sangyin** came from wanting to listen on the go, turning a wall of reading into audio I could take anywhere. **canola** came from wanting AI meeting notes without being gated behind a business-account paywall, so I built my own.
 
-The pattern is always the same. Feel the pain, build the fix, ship it, find out if it holds.
+The pattern is always the same. Feel the pain, build the fix, ship it, find out if it holds. What sits here will keep rotating through whatever is most pressing.
 
 ## How I work
 
