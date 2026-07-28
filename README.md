@@ -8,7 +8,6 @@
 
 <a href="https://pamimoakinjide.com"><img src="https://img.shields.io/badge/Website-pamimoakinjide.com-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0B1F3A" alt="Website" /></a>
 <a href="https://www.linkedin.com/in/pamimo"><img src="https://img.shields.io/badge/LinkedIn-pamimo-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1F3A" alt="LinkedIn" /></a>
-<a href="mailto:akinjidedavid@gmail.com"><img src="https://img.shields.io/badge/Email-akinjidedavid-3B82F6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1F3A" alt="Email" /></a>
 
 </div>
 
@@ -138,6 +137,6 @@ Next up: canola out of IN DEV and into the hands of real users, held to the same
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:0B1F3A&height=140&section=footer" alt="footer" width="100%" />
 
-<a href="https://pamimoakinjide.com">pamimoakinjide.com</a> &nbsp;&middot;&nbsp; <a href="https://www.linkedin.com/in/pamimo">linkedin.com/in/pamimo</a> &nbsp;&middot;&nbsp; <a href="mailto:akinjidedavid@gmail.com">akinjidedavid@gmail.com</a>
+<a href="https://pamimoakinjide.com">pamimoakinjide.com</a> &nbsp;&middot;&nbsp; <a href="https://www.linkedin.com/in/pamimo">linkedin.com/in/pamimo</a>
 
 </div>
