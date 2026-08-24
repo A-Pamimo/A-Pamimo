@@ -1,6 +1,6 @@
 # Pamimo Akinjide
 
-Product manager. I build things I need, then keep going.
+Hi, im guessing you found this on some part of the interweb and clicked. Welcome. 
 
 ## Here's some of my stuff
 
@@ -12,9 +12,9 @@ Product manager. I build things I need, then keep going.
 
 **[canola](https://github.com/A-Pamimo/canola)** — an AI meeting notepad that records on-device and never stores your audio. Still in progress.
 
-Before product I did economics, and a bit of that is still around: [HonorsPaperWFP](https://github.com/A-Pamimo/HonorsPaperWFP), a reproducible R thesis pipeline, and [MacroMonitor](https://github.com/A-Pamimo/MacroMonitor), a macro dashboard on FRED data.
+Outside of product I also have strong interests in economics, and a bit of that is still around: [HonorsPaperWFP](https://github.com/A-Pamimo/HonorsPaperWFP), a reproducible R thesis pipeline, and [MacroMonitor](https://github.com/A-Pamimo/MacroMonitor), a macro dashboard on FRED data.
 
-Mostly TypeScript, React, Next.js, Expo, and R.
+we can all agree AI is here to stay what's harder is doing so i try to do that. 
 
 ---
 
