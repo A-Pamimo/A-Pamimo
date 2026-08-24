@@ -14,7 +14,7 @@ Hi, im guessing you found this on some part of the interweb and clicked. Welcome
 
 Outside of product I also have strong interests in economics, and a bit of that is still around: [HonorsPaperWFP](https://github.com/A-Pamimo/HonorsPaperWFP), a reproducible R thesis pipeline, and [MacroMonitor](https://github.com/A-Pamimo/MacroMonitor), a macro dashboard on FRED data.
 
-we can all agree AI is here to stay what's harder is doing so i try to do that. 
+
 
 ---
 
